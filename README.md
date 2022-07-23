@@ -2,7 +2,7 @@
 This is my Final Year Project at CUHK, collborated another Computer Science student. This is a health care app integrated with skin cancer AI detection. Our group is responsible for the app development and AI integration, while the AI model is prepared by another group.
 
 ## Demo
-See https://youtu.be/2y24WAK7_70
+Click [here](https://youtu.be/2y24WAK7_70) to see the demo.
 
 ## Features
 | <img src="https://github.com/marukosy124/health-care-AI-app/blob/main/img/feature1.png"> | <img src="https://github.com/marukosy124/health-care-AI-app/blob/main/img/feature2.png"> |
